@@ -12,6 +12,7 @@
 		Jumlah Baris<br/>
 		<input type="text" name="jml"/><br/>
 		<input type="submit" name="submit" value="proses" />
+		
 	</form?
 	
 </body>
